@@ -1,0 +1,59 @@
+
+a {
+    text-decoration: none;
+    color: #505050;
+}
+body {
+    background: #e7e7e7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title, .subtitle, .postTitle {
+    color: #505050;;
+}
+.postTitle{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px ;
+}
+
+.post{
+    background: #fff;
+    padding: 10px;
+  
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    
+    
+}
+.postContent {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+
+.postImage{
+    margin-bottom: 15px;
+    width: 100%;
+    height: 400px;
+    
+
+}
+
+.perfilLkd{
+    max-width: 100px;
+    border-color: 3px solid #505050;
+    border-radius:50%;
+    text-align: center;
+}
+.textList{
+    list-style-type: none;
+    padding-left: 15px ;
+}
+
